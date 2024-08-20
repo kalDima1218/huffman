@@ -1,6 +1,4 @@
-#include <string>
 #include <fstream>
-#include <iostream>
 #include "huffman_tree.h"
 
 void encode(const std::string& source) {
